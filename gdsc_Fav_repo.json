@@ -57,7 +57,35 @@
          ]
    
    
-       }
+       },
+    {
+
+        "id":2,
+       "location": "nagpur",    
+       
+        
+       "fav_things":[
+           { "id":0,
+           "name": "tushar",
+           "food":"dahi vada",
+           "place": "friends colony",
+           "shops": "Srushti Designer Boutique",
+           "mall":"Empress Mall",
+           "restuarant":"Barbeque Nation - Nagpur - Eternity Mall",
+           "date":"30/9/2022"
+          },
+          { "id":1,
+           "name": "tushar",
+           "food":"samosa",
+           "place": "Sitabuldi",
+           "shops": "Hallmark Cards & Gifts",
+           "mall":"Fortune Mall",
+           "restuarant":"Mint Leaf",
+           "date":"30/9/2022"
+          }
+         ]
+        
+      },
 ]
 
 
